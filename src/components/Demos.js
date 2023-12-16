@@ -11,7 +11,7 @@ const Demos = () => {
         <div className="demos">
             <AudioPlayer/>
         </div>
-      <p>Placeholder text for the demos section.</p>
+      {/* <p>Placeholder text for the demos section.</p> */}
     </section>
   );
 }
